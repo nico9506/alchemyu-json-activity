@@ -1,0 +1,24 @@
+{
+  "name": "alchemyu-json-activity",
+  "version": "1.0.0",
+  "description": "Read queries using the Ethereum JSON-RPC API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nico9506/alchemyu-json-activity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nico9506/alchemyu-json-activity/issues"
+  },
+  "homepage": "https://github.com/nico9506/alchemyu-json-activity#readme",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "dotenv": "^16.5.0"
+  }
+}
